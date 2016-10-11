@@ -1,11 +1,11 @@
 ## This is my README.md##
 # DOL#
 
-## 介绍##
+## Description##
 
 > The distributed operation layer ([DOL](http://www.tik.ee.ethz.ch/~shapes/dol.html)) is a software development framework to program parallel applications. The DOL allows to specify applications based on the Kahn process network model of computation and features a simulation engine based on SystemC. Moreover, the DOL provides an XML-based specification format to describe the implementation of a parallel application on a multi-processor systems, including binding and mapping.
 
-## 安装##
+## How to install##
 
 首先介绍几个工具吧
 
@@ -150,3 +150,7 @@ java与javac简介
 		![dol_img_4](https://github.com/XrLee/images/blob/master/4.JPG?raw=true)
 
 ## 至此安装完毕
+
+## Experimental experience
+
+本次实验，了解了git版本控制并学习了其使用；另外，学习了markdown的符号，markdown用于编写文本，其目的是让书写者的主要精力放在书写内容上而不是排版。整过自学过程让我明白了：不懂就百度，结合网上的教程可以学到很多知识。
